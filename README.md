@@ -6,8 +6,7 @@ This project is a fully automated content creation pipeline that generates and u
 
 ---
 
-## 💻![AgenturlebenAgencylifeGIF](https://github.com/user-attachments/assets/14599d4c-ebab-4db6-983c-dbba0c374e76)
-
+## 💻 Workflow
 
 **<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/342a4501-e6c1-43c6-a51d-7a1e611df2d3" />
 **
